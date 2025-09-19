@@ -326,7 +326,7 @@ principio:
 
 ![](imagenes/series_45.jpg)
 
-Espto también es un principio para decidir la razón de aspecto de cualquier 
+Esto también es un principio para decidir la razón de aspecto de cualquier 
 gráfica de dispersión (y también gráficas de barras). Esta regla supera el 
 principio de que “las escalas deben comenzar en cero”. En realidad este 
 último principio cuida contra dos errores en la graficación: no poner atención a
